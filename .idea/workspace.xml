@@ -5,22 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d57ae98b-3b65-494b-a110-4b60efc27376" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.env" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/FirstLangchainProject.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Agents/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Agents/linkedin_url_lookup_agent.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ThirdParty/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ThirdParty/data.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ThirdParty/linkedin.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tools/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tools/google_search_url.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/firstProject.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/linkedin_main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
