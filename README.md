@@ -9,6 +9,12 @@ Given the name of a person, we have to:
 2. Fetch the profile summary of the person using the information on the LinkedIn profile page.
 ```
 
+### Sample Input:
+
+```
+Name of the Person given: Bill Gates
+```
+
 ### Sample Output:
 
 <img src="output.png" alt="Image Alt Text" width="4000">
