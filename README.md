@@ -11,4 +11,4 @@ Given the name of a person, we have to:
 
 ### Sample Output:
 
-<img src="output.png" alt="Image Alt Text" width="200">
+<img src="output.png" alt="Image Alt Text" width="800">
